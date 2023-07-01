@@ -4,7 +4,6 @@ import cn.sleepybear.gaokaorecommendzhiyuan.dto.PersonInfoDto;
 import cn.sleepybear.gaokaorecommendzhiyuan.dto.ZhiyuanDto;
 import org.springframework.stereotype.Component;
 
-import java.util.Comparator;
 import java.util.List;
 
 /**
